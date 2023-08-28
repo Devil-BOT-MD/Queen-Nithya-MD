@@ -10,7 +10,7 @@
 
    <p align="center">
 <a href="https://github.com/DileepaTech">
-    <img src="https://telegra.ph/file/e737a6573663dcd99f96c.jpg" width="700px">
+    <img src="https://telegra.ph/file/482a6dacbd8fd24ad40ff.jpg">
   </a>
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
@@ -28,7 +28,7 @@
 ## [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/)
  
     
-## <a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
+## <a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/482a6dacbd8fd24ad40ff.jpg"></a>
 </p>
  
 ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/DileepaTech/Queen-Nithya-MD)
